@@ -1,1 +1,1 @@
-# Loan_approval_prediction
+This project can be used to predict whether a loan would be approved or not. The project uses Support Vector Machine classifier to predict the output and also various data pre processing has been used to make the data useful for predictions and data visualization techniques have been used to plot various graphs using seaborn.
